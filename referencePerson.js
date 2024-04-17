@@ -123,10 +123,4 @@ for (let i = 0; i < informations.records.length; i++) {
       });
     }
   }
-
-  //   check if it's already at the end of the list
-  if (j === informations.records.length) {
-    console.log("done");
-    break;
-  }
 }
